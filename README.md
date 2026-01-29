@@ -25,6 +25,12 @@ Photoshop LLM Skill is an intelligent automation framework that enables Large La
 - 🛠️ **Extensible Architecture**: Easy to add custom skills and commands
 - 📚 **Rich Documentation**: Comprehensive guides and examples
 
+### 🎬 Demo
+
+See the skill in action — watch [sample.mp4](sample.mp4) or play it below:
+
+<video src="sample.mp4" controls width="640">Your browser does not support the video tag.</video>
+
 ### 🚀 Quick Start
 
 #### Prerequisites
