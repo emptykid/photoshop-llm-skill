@@ -1,0 +1,1 @@
+/win/.test($.os.toLowerCase());

@@ -1,0 +1,24 @@
+// Expected globals: name (string), width (number), height (number), density (number, default 72), artboard (boolean, default false), background (boolean, default false)
+var name = (typeof name !== 'undefined') ? name : 'Untitled';
+var width = (typeof width !== 'undefined') ? width : 100;
+var height = (typeof height !== 'undefined') ? height : 100;
+var density = (typeof density !== 'undefined') ? density : 72;
+var artboard = (typeof artboard !== 'undefined') ? artboard : false;
+var background = (typeof background !== 'undefined') ? background : false;
+var desc1 = new ActionDescriptor();
+var desc2 = new ActionDescriptor();
+desc2.putBoolean(stringIDToTypeID("artboard"), artboard);
+desc2.putBoolean(stringIDToTypeID("autoPromoteBackgroundLayer"), background);
+desc2.putClass(stringIDToTypeID("mode"), stringIDToTypeID("RGBColorMode"));
+desc2.putUnitDouble(stringIDToTypeID("width"), stringIDToTypeID("distanceUnit"), width);
+desc2.putUnitDouble(stringIDToTypeID("height"), stringIDToTypeID("distanceUnit"), height);
+desc2.putUnitDouble(stringIDToTypeID("resolution"), stringIDToTypeID("densityUnit"), density);
+desc2.putDouble(stringIDToTypeID("pixelScaleFactor"), 1.000000);
+desc2.putEnumerated(stringIDToTypeID("fill"), stringIDToTypeID("fill"), stringIDToTypeID("transparency"));
+desc2.putInteger(stringIDToTypeID("depth"), 8);
+desc2.putString(stringIDToTypeID("name"), name);
+desc2.putString(stringIDToTypeID("profile"), "sRGB IEC61966-2.1");
+var list1 = new ActionList();
+desc2.putList(stringIDToTypeID("guides"), list1);
+desc1.putObject(stringIDToTypeID("new"), stringIDToTypeID("document"), desc2);
+app.executeAction(stringIDToTypeID("make"), desc1, DialogModes.NO);
