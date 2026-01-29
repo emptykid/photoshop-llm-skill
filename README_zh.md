@@ -27,9 +27,13 @@ Photoshop LLM Skill 是一个智能自动化框架，使大型语言模型（LLM
 
 ### 🎬 演示
 
-观看效果演示 — 可打开 [sample.mp4](sample.mp4) 或直接播放下方视频：
+点击下方视频即可播放：
 
-<video src="sample.mp4" controls width="640">您的浏览器不支持视频播放。</video>
+<p align="center">
+  <video src="https://github.com/emptykid/photoshop-llm-skill/raw/main/sample.mp4" controls width="640" style="max-width:100%;">
+    您的浏览器不支持视频播放。<a href="https://github.com/emptykid/photoshop-llm-skill/raw/main/sample.mp4">下载 sample.mp4</a>
+  </video>
+</p>
 
 ### 🚀 快速开始
 
