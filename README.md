@@ -27,6 +27,8 @@ Photoshop LLM Skill is an intelligent automation framework that enables Large La
 
 ### 🎬 Demo
 
+![Demo screenshot](sample1.png)
+
 **Click to play:** [**▶ sample.mp4**](https://github.com/emptykid/photoshop-llm-skill/raw/main/sample.mp4) (opens in new tab)
 
 > GitHub does not embed `<video>` or MP4 in README. To show a playable player here, edit this file on GitHub, drag `sample.mp4` into the editor, and use the URL GitHub gives you (e.g. `https://github.com/user-attachments/assets/...`).

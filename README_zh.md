@@ -27,6 +27,8 @@ Photoshop LLM Skill 是一个智能自动化框架，使大型语言模型（LLM
 
 ### 🎬 演示
 
+![演示截图](sample1.png)
+
 **点击播放：** [**▶ sample.mp4**](https://github.com/emptykid/photoshop-llm-skill/raw/main/sample.mp4)（新标签页打开）
 
 > GitHub 不会在 README 中内嵌 `<video>` 或 MP4。若要在本页显示可播放器，请在 GitHub 上编辑本文件，把 `sample.mp4` 拖进编辑器，然后使用 GitHub 生成的链接（形如 `https://github.com/user-attachments/assets/...`）。
