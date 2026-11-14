@@ -89,6 +89,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Adobe Photoshop Scripting API
 - The open-source LLM community
 
+### 🔗 Related projects
+
+[PSFlow](https://psflow.io?utm_source=github&utm_medium=readme&utm_campaign=photoshop-llm-skill) – record a timelapse of your Photoshop canvas
+
 ---
 
 <div align="center">

@@ -89,6 +89,10 @@ cd photoshop-llm-skill
 - Adobe Photoshop 脚本 API
 - 开源 LLM 社区
 
+### 🔗 相关项目
+
+[PSFlow](https://psflow.io?utm_source=github&utm_medium=readme&utm_campaign=photoshop-llm-skill)：Photoshop 画布延时录制插件
+
 ---
 
 <div align="center">
